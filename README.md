@@ -1,4 +1,4 @@
 # Iqbal
 This is our first project in Github
 <br>
-Author - Shaikh Iqbal
+Author - Shaikh Iqbal (Developer)
